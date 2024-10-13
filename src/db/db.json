@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "a81ada67-5ed3-4a51-9d5c-22946564e1d2",
+    "name": "Judy Wyman",
+    "phone": "868-264-4981 x57453",
+    "email": "Cecil.Pouros@yahoo.com",
+    "job": "Direct Research Liaison"
+  },
+  {
+    "id": "66745a11-736b-4428-81c3-732a04ee02ea",
+    "name": "Carla Hudson",
+    "phone": "1-373-751-3267",
+    "email": "Percival82@hotmail.com",
+    "job": "Central Research Technician"
+  },
+  {
+    "id": "2667e0a6-4bff-49da-853b-e6f448b6e634",
+    "name": "Robin Schneider",
+    "phone": "486-373-6446 x73597",
+    "email": "Breana_Hammes7@gmail.com",
+    "job": "Regional Paradigm Developer"
+  },
+  {
+    "id": "c56c769b-4743-46f0-959b-c92b6a571f51",
+    "name": "Miriam Ledner",
+    "phone": "911.857.1893 x5639",
+    "email": "Cora.Wintheiser73@hotmail.com",
+    "job": "Lead Program Strategist"
+  }
+]
